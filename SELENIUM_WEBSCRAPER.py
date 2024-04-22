@@ -8,7 +8,7 @@ from openpyxl import Workbook
 driver = webdriver.Chrome()
 
 # Navigate to Google Docs
-driver.get("https://docs.google.com/document/d/your_document_id/edit")
+driver.get("https://docs.google.com/document/d/1rL1bDfmnDETXuz4KomaxhGqtBNWbpPoHIjHodbqrpkw/edit")
 
 # Wait for the document to load
 time.sleep(5)
